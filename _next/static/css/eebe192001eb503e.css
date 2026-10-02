@@ -1,0 +1,1 @@
+.etat-geste{display:inline-block;width:100%;margin-top:2px;font-size:.8125rem;color:var(--encre-douce)}.etat-geste[data-etat=demande]{color:var(--verifier)}.etat-geste[data-etat=constate],.etat-geste[data-etat=fait-ioku]{color:var(--encre-legere)}
